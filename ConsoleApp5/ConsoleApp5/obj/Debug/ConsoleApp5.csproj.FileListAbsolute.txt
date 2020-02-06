@@ -1,0 +1,14 @@
+E:\C# projects\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+E:\C# projects\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+E:\C# projects\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+E:\C# projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+E:\C# projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+E:\C# projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+E:\C# projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+E:\C#projects\Console\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+E:\C#projects\Console\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+E:\C#projects\Console\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+E:\C#projects\Console\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+E:\C#projects\Console\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+E:\C#projects\Console\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+E:\C#projects\Console\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

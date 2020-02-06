@@ -1,0 +1,7 @@
+E:\C# projects\ConsoleApp2.1\ConsoleApp2.1\bin\Debug\ConsoleApp2.1.exe.config
+E:\C# projects\ConsoleApp2.1\ConsoleApp2.1\bin\Debug\ConsoleApp2.1.exe
+E:\C# projects\ConsoleApp2.1\ConsoleApp2.1\bin\Debug\ConsoleApp2.1.pdb
+E:\C# projects\ConsoleApp2.1\ConsoleApp2.1\obj\Debug\ConsoleApp2.1.csprojAssemblyReference.cache
+E:\C# projects\ConsoleApp2.1\ConsoleApp2.1\obj\Debug\ConsoleApp2.1.csproj.CoreCompileInputs.cache
+E:\C# projects\ConsoleApp2.1\ConsoleApp2.1\obj\Debug\ConsoleApp2.1.exe
+E:\C# projects\ConsoleApp2.1\ConsoleApp2.1\obj\Debug\ConsoleApp2.1.pdb
